@@ -1,2 +1,2 @@
 # HackerRank
-My repository for HackerRank
+My repository for coding problems on HackerRank.
