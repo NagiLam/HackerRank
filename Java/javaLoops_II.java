@@ -12,7 +12,7 @@ import static java.util.stream.Collectors.toList;
 import java.util.*;
 import java.io.*;
 
-class javaLoopsII{
+class javaLoops_II{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();
