@@ -5,19 +5,19 @@ I used the code stubs provided by HackerRank, so when you copy and run it on you
 
 Here is the shortlist of all the problems I did so far:
 * Java (Basic):
-- Java If-Else
-- Java Datatypes
-- Java Loops I
-- Java Loops II
-- Java Stdin and Stdout I
-- Java Stdin and Stdout II
-- Java End-of-file
-- Java Output Formatting
-- Java Static Initializer Block
-- Java Int to String
-- Java Date and Time
-- Java Currency Formatter
+  * Java If-Else
+  * Java Datatypes
+  * Java Loops I
+  * Java Loops II
+  * Java Stdin and Stdout I
+  * Java Stdin and Stdout II
+  * Java End-of-file
+  * Java Output Formatting
+  * Java Static Initializer Block
+  * Java Int to String
+  *Java Date and Time
+  * Java Currency Formatter
 
 
-Best regards,
+Best regards,\n
 Lam
