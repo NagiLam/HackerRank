@@ -19,5 +19,5 @@ Here is the shortlist of all the problems I did so far:
   * Java Currency Formatter
 
 
-Best regards,\n
+Best regards,   
 Lam
