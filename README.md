@@ -15,7 +15,7 @@ Here is the shortlist of all the problems I did so far:
   * Java Output Formatting
   * Java Static Initializer Block
   * Java Int to String
-  *Java Date and Time
+  * Java Date and Time
   * Java Currency Formatter
 
 
