@@ -1,5 +1,5 @@
 # HackerRank
-This is my repository for coding problem solutions on HackerRank. Remember, this is throw-away code that is only supposed to get the job done. It may not be the most optimal way to do these tasks.
+This is my repository for coding solutions on HackerRank. Remember, this is throw-away code that is only supposed to get the job done. It may not be the most optimal way to do these tasks.
 
 I used the code stubs provided by HackerRank, so when you copy and run it on your computer there may be some problems. Feel free to use my solutions in any way you like.
 
