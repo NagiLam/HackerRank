@@ -5,6 +5,7 @@ I used the code stubs provided by HackerRank, so when you copy and run it on you
 
 Here is the shortlist of all the problems I did so far:
 * Java (Basic):
+  * Welcome to Java!
   * Java If-Else
   * Java Datatypes
   * Java Loops I
@@ -17,7 +18,9 @@ Here is the shortlist of all the problems I did so far:
   * Java Int to String
   * Java Date and Time
   * Java Currency Formatter
-
+  * Java Strings Introduction
+  * Java SubString
+  * Java SubString Comparisons
 
 Best regards,   
 Lam
