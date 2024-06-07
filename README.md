@@ -3,7 +3,7 @@ This is my repository for coding solutions on HackerRank. Remember, this is thro
 
 I used the code stubs provided by HackerRank, so when you copy and run it on your computer/browser there may be some problems. To submit code on HackerRank, make sure you change the name of the public class to "Solution". Feel free to use my solutions in any way you like.
 
-Here is the shortlist of all the problems I did so far:
+Here is the list of all the problems I did so far:
 * Java (Basic):
   * Welcome to Java!
   * Java If-Else
@@ -21,6 +21,8 @@ Here is the shortlist of all the problems I did so far:
   * Java Strings Introduction
   * Java SubString
   * Java SubString Comparisons
+  * Java String Reverse
+  * Java Anagrams
 
 Best regards,   
 Lam
