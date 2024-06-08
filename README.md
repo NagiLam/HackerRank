@@ -20,6 +20,8 @@ Here is the list of all the problems I did so far:
   * Java Currency Formatter
   * Java Strings Introduction
   * Java SubString
+  * Java String Token
+  * Java 1D Array
   * Java SubString Comparisons
   * Java String Reverse
   * Java Anagrams
