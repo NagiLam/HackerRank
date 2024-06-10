@@ -25,6 +25,11 @@ Here is the list of all the problems I did so far:
   * Java SubString Comparisons
   * Java String Reverse
   * Java Anagrams
+  * Valid Username Regular Expression
+  * Pattern Syntax Checker
+    
+* Java (Intermediate):
+  * Java Regex
 
 Best regards,   
 Lam
