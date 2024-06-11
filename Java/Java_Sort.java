@@ -21,7 +21,6 @@ class Student{
     }
 }
 
-//Complete the code
 public class Solution
 {
     public static void main(String[] args){
@@ -29,7 +28,7 @@ public class Solution
         int testCases = Integer.parseInt(in.nextLine());
         
         List<Student> studentList = new ArrayList<Student>();
-        while(testCases>0){
+        while (testCases > 0){
             int id = in.nextInt();
             String fname = in.next();
             double cgpa = in.nextDouble();
@@ -41,25 +40,25 @@ public class Solution
         }
    
         Comparator<Student> studentComparator = new Comparator<Student>() {
-        public int compare(Student st1, Student st2) {
-            if ((st1.getCgpa() > st2.getCgpa())){
-                return -1;
-            } 
-            
-            if ((st1.getCgpa() < st2.getCgpa())){
-                return 1;
-            } 
-            
-            if (!(st1.getFname().equals(st2.getFname()))){
-                return st1.getFname().compareTo(st2.getFname());
-            } 
-            return st1.getId()-st2.getId();
-    
-        }
+            public int compare(Student st1, Student st2) {
+                if ((st1.getCgpa() > st2.getCgpa())){
+                    return -1;
+                } 
+                
+                if ((st1.getCgpa() < st2.getCgpa())){
+                    return 1;
+                } 
+                
+                if (!(st1.getFname().equals(st2.getFname()))){
+                    return st1.getFname().compareTo(st2.getFname());
+                } 
+                return st1.getId() - st2.getId();
+        
+            }
         };
         Collections.sort(studentList, studentComparator);
         
-          for(Student st: studentList){
+        for (Student st: studentList){
             System.out.println(st.getFname());
         }
     }
