@@ -27,6 +27,7 @@ Here is the list of all the problems I did so far:
   * Java Anagrams
   * Valid Username Regular Expression
   * Pattern Syntax Checker
+  * Java Sort
     
 * Java (Intermediate):
   * Java Regex
