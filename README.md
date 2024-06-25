@@ -5,29 +5,31 @@ I used the code stubs provided by HackerRank, so when you copy and run it on you
 
 Here is the list of all the problems I did so far:
 * Java (Basic):
-  * Welcome to Java!
-  * Java If-Else
+  * Java 1D Array
+  * Java Anagrams
+  * Java Arraylist
+  * Java Currency Formatter
   * Java Datatypes
+  * Java Date and Time
+  * Java End-of-file
+  * Java If-Else
+  * Java Int to String
+  * Java List
   * Java Loops I
   * Java Loops II
+  * Java Output Formatting
+  * Java Sort
+  * Java Static Initializer Block
   * Java Stdin and Stdout I
   * Java Stdin and Stdout II
-  * Java End-of-file
-  * Java Output Formatting
-  * Java Static Initializer Block
-  * Java Int to String
-  * Java Date and Time
-  * Java Currency Formatter
+  * Java String Reverse
+  * Java String Token
   * Java Strings Introduction
   * Java SubString
-  * Java String Token
-  * Java 1D Array
   * Java SubString Comparisons
-  * Java String Reverse
-  * Java Anagrams
-  * Valid Username Regular Expression
   * Pattern Syntax Checker
-  * Java Sort
+  * Valid Username Regular Expression
+  * Welcome to Java!
     
 * Java (Intermediate):
   * Java Regex
