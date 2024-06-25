@@ -12,8 +12,7 @@ public class Solution {
         List <Integer> listL = new ArrayList<Integer>(sizeOfList);
 
         // Read a line contains space-separated integers describing elements into listL
-        String line = in.nextLine();
-        String[] elements = line.split(" ");
+        String[] elements = in.nextLine().split(" ");
         for (int i = 0; i < elements.length; i++){
             listL.add(Integer.parseInt(elements[i]));
         }
