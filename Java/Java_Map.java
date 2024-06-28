@@ -19,6 +19,7 @@ class Solution {
             String s = in.nextLine();
             if (!map.containsKey(s)) {
                 System.out.println("Not found");
+                continue;
             }
             System.out.println(s + "=" + map.get(s));
         }
